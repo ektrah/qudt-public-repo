@@ -11,6 +11,8 @@ and this project is in the process of adopting [Semantic Versioning](https://sem
 
 ### Changed
 
+- Renamed 31 Quantity Kinds in favor of more consistently-named and natural-language-friendly URIs.
+
 ### Deprecated
 
 ### Fixed
