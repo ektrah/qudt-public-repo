@@ -22,6 +22,47 @@ and this project is in the process of adopting [Semantic Versioning](https://sem
 
 ### Deprecated
 
+- `quantitykind:CENTER-OF-MASS`
+- `quantitykind:CONTRACT-END-ITEM-SPECIFICATION-MASS`
+- `quantitykind:CONTROL-MASS`
+- `quantitykind:DELTA-V`
+- `quantitykind:DRY-MASS`
+- `quantitykind:FLIGHT-PERFORMANCE-RESERVE-PROPELLANT-MASS`
+- `quantitykind:FUEL-BIAS`
+- `quantitykind:GROSS-LIFT-OFF-WEIGHT`
+- `quantitykind:INERT-MASS`
+- `quantitykind:MASS-DELIVERED`
+- `quantitykind:MASS-GROWTH-ALLOWANCE`
+- `quantitykind:MASS-MARGIN`
+- `quantitykind:MASS-PROPERTY-UNCERTAINTY`
+- `quantitykind:NOMINAL-ASCENT-PROPELLANT-MASS`
+- `quantitykind:PREDICTED-MASS`
+- `quantitykind:PRODUCT-OF-INERTIA`
+- `quantitykind:RESERVE-MASS`
+- `quantitykind:TARGET-BOGIE-MASS`
+- `quantitykind:Debye-WallerFactor` (replacement: `quantitykind:DebyeWallerFactor`)
+- `quantitykind:ElectricChargeLinearDensity` (replacement: `quantitykind:LinearElectricChargeDensity`)
+- `quantitykind:EnergyImparted` (replacement: `quantitykind:ImpartedEnergy`)
+- `quantitykind:EnergyInternal` (replacement: `quantitykind:InternalEnergy`)
+- `quantitykind:EnergyKinetic` (replacement: `quantitykind:KineticEnergy`)
+- `quantitykind:Half-Life` (replacement: `quantitykind:HalfLife`)
+- `quantitykind:Half-ValueThickness` (replacement: `quantitykind:HalfValueThickness`)
+- `quantitykind:IntinsicCarrierDensity` (replacement: `quantitykind:IntrinsicCarrierDensity`)
+- `quantitykind:Landau-GinzburgNumber` (replacement: `quantitykind:LandauGinzburgNumber`)
+- `quantitykind:Long-RangeOrderParameter` (replacement: `quantitykind:LongRangeOrderParameter`)
+- `quantitykind:MaximumBeta-ParticleEnergy` (replacement: `quantitykind:MaximumBetaParticleEnergy`)
+- `quantitykind:Non-LeakageProbability` (replacement: `quantitykind:NonLeakageProbability`)
+- `quantitykind:RF-Power` (replacement: `quantitykind:RFPower`)
+- `quantitykind:RelaxationTIme` (replacement: `quantitykind:RelaxationTime`)
+- `quantitykind:RiseOfOffStateVoltage` (replacement: `quantitykind:RateOfRiseOfOffStateVoltage`)
+- `quantitykind:Rotary-TranslatoryMotionConversion` (replacement: `quantitykind:RotaryTranslatoryMotionConversion`)
+- `quantitykind:Short-RangeOrderParameter` (replacement: `quantitykind:ShortRangeOrderParameter`)
+- `quantitykind:Slowing-DownArea` (replacement: `quantitykind:SlowingDownArea`)
+- `quantitykind:Slowing-DownDensity` (replacement: `quantitykind:SlowingDownDensity`)
+- `quantitykind:Slowing-DownLength` (replacement: `quantitykind:SlowingDownLength`)
+- `quantitykind:VaporPressure` (replacement: `quantitykind:VapourPressure`)
+- `quantitykind:WaterVaporDiffusionCoefficient` (replacement: `quantitykind:WaterVapourDiffusionCoefficient`)
+
 ### Fixed
 
 - Tracked down and fixed errors in the OWL schema that were causing problems in Protege
