@@ -20,6 +20,7 @@ and this project is in the process of adopting [Semantic Versioning](https://sem
 
 - Removed some erroneous references from the datatypes schema metadata to the coordinate systems schema under construction
 - Fixed some small errors in qudt:ArrayDataOrder, qudt:MassPropertiesArray, qkdv:A0E1L0I0M-1H0T0D0, and unit:RT
+- Fixed disjoint datatypes
 
 ## [3.2.1] - 2026-04-02
 
